@@ -145,9 +145,9 @@ Across the dam, 40.5% of mapped area (760 ha) was rarely floating vegetation and
 
 | File | What it does |
 |---|---|
-| [`code/gee/harties_floating_veg.js`](code/gee/harties_floating_veg.js) | Google Earth Engine: composites, classification, accuracy, exports |
-| [`code/gee/harties_drivers.js`](code/gee/harties_drivers.js) | Google Earth Engine: monthly rainfall and temperature |
-| [`code/r/harties_forecast.R`](code/r/harties_forecast.R) | R: time series and forecast comparison |
+| [`code/gee/harties_floating_veg.js`](code/harties_floating_veg.js) | Google Earth Engine: composites, classification, accuracy, exports |
+| [`code/gee/harties_drivers.js`](code/harties_drivers.js) | Google Earth Engine: monthly rainfall and temperature |
+| [`code/r/harties_forecast.R`](code/harties_forecast.R) | R: time series and forecast comparison |
 | [`data/training_points.csv`](data/training_points.csv) | Labelled training points (class, month, longitude, latitude) |
 
 Reproducibility note: the Earth Engine script reads training points that are drawn as layers in the Code Editor. The same points are saved in data/training_points.csv, so the training data can be rebuilt, but the script will not run unchanged for someone else.
