@@ -126,6 +126,31 @@ Building up of cover overtime
 Floating vegetation cover follows a clear seasonal cycle. In winter (June to September) it falls to about 100 to 350 ha (median about 175 ha, roughly 9% of the water surface). It begins rising in October or November and peaks in summer, with typical December to February values of about 600 to 700 ha, roughly three to four times the winter average. The size of the peak varies strongly between years, from about 600 ha in February 2024 to more than 1,100 ha in February 2022 and January 2026 (up to 59% of the water surface), and the peak was late in 2023 (April, 1,065 ha). This cycle is consistent with warm-season growth and winter die-back, but this project did not test the causes, and the year-to-year differences are not explained by the data analysed here.
 
 Locations where cover builds up
+**Persistence classes:** rarely (floating vegetation in <10% of valid months), occasionally (10 to 30%), frequently (30 to 60%), persistently (>60%).
+
+**Table 1. Area (ha) of each persistence class by zone**
+
+| Zone | Area (ha) | Rarely | Occasionally | Frequently | Persistently |
+|---|---|---|---|---|---|
+| Magalies inflow | 361.9 | 2.4 | 272.2 | 58.9 | 28.5 |
+| Dam wall area | 165.5 | 34.9 | 111.3 | 12.3 | 7.0 |
+| Crocodile inflow | 60.9 | 18.3 | 13.7 | 11.2 | 17.7 |
+| Bay A | 149.0 | 80.4 | 44.9 | 9.2 | 14.5 |
+| Main basin | 1,140.9 | 624.4 | 447.2 | 29.0 | 40.4 |
+| **Whole dam** | **1,878.3** | **760.3** | **889.3** | **120.6** | **108.1** |
+
+**Table 2. Share of each zone in each persistence class (%)**
+
+| Zone | Rarely | Occasionally | Frequently | Persistently | Frequently + persistently |
+|---|---|---|---|---|---|
+| Magalies inflow | 0.7 | 75.2 | 16.3 | 7.9 | 24.1 |
+| Dam wall area | 21.1 | 67.2 | 7.4 | 4.2 | 11.7 |
+| Crocodile inflow | 30.0 | 22.5 | 18.4 | 29.1 | 47.5 |
+| Bay A | 53.9 | 30.2 | 6.2 | 9.7 | 15.9 |
+| Main basin | 54.7 | 39.2 | 2.5 | 3.5 | 6.1 |
+| **Whole dam** | **40.5** | **47.3** | **6.4** | **5.8** | **12.2** |
+
+*Areas are for the 1,878 ha of the dam with enough valid months. Zones were drawn before the results were examined.*
 
 Across the dam, 40.5% of mapped area (760 ha) was rarely floating vegetation and 47.3% (889 ha) occasionally so, while 12.2% (229 ha) was frequently or persistently covered, including 108 ha (5.8%) classed as persistent, meaning floating vegetation in more than 60% of valid months. Persistence differed strongly between zones. The Crocodile inflow, the smallest zone (61 ha), had the highest share of frequent and persistent cover (47.5%, of which 29.1% persistent). The Magalies inflow had almost no rarely floating area (0.7%), with 75.2% occasionally and 24.1% frequently or persistently covered, and it holds the most frequent and persistent cover of any zone in hectares (87 ha, 38% of the dam total) despite making up only 19% of the mapped area. The main basin, at 61% of the area, was mostly rarely or occasionally covered (93.9%), and only 6.1% of it was frequent or persistent, but because it is so large it still contains 69 ha of frequent and persistent cover (30% of the total) and 40 ha of persistent cover (37% of all persistent cover). Bay A and the dam wall area were intermediate, with 15.9% and 11.7% frequent or persistent.
 
