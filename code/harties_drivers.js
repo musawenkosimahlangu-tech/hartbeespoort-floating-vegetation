@@ -1,7 +1,7 @@
-/**************************************************************************
- * HARTBEESPOORT DRIVERS: monthly rainfall + temperature (2019-01 to 2026-10)
- * Output CSV columns (matches harties_forecast_v2.R):
- *   date, rain_mm, rain_catch_mm, chirps_days, temp_c, temp_min_c, temp_max_c
+//**************************************************************************
+//* HARTBEESPOORT DRIVERS: monthly rainfall + temperature (2019-01 to 2026-10)
+//Output CSV columns (matches harties_forecast_v2.R):
+//  date, rain_mm, rain_catch_mm, chirps_days, temp_c, temp_min_c, temp_max_c
 
 
 var START = '2019-01-01';
