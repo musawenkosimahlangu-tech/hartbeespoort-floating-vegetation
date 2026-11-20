@@ -16,6 +16,10 @@ Objectives:
 
 3.Identify spatial persistence patterns and accumulation zones of floating invasive vegetation using persistence frequency mapping and zonal statistics.
 
+![Study area: Hartbeespoort Dam, North West Province, South Africa](figures/01_study_area.jpg)
+
+*Figure 1. Study area: Hartbeespoort Dam and the dam outline used in the analysis.*
+
 # Key Results
 •Largest Persistence zone: Occasionally floating | floating in 47,346565% of the valid months
 
@@ -27,10 +31,23 @@ Objectives:
 
 •Forecast: On 22 held-out months (January 2025 to October 2026), the model forecast cover 1, 2 and 3 months ahead with errors (RMSE) of about 170, 225 and 245 ha. That is lower than a “same as now” baseline (about 205, 355 and 475 ha) and a “same month last year” baseline (about 300 ha) at every horizon. It consistently underestimated the largest peaks, by about 220 ha at 1 month and 340 to 390 ha at 2 to 3 months in months above 700 ha, so it is a better guide to the direction of the season than to peak size.
 
-
 # Maps and Figures
 
+![Persistence of floating vegetation: share of months each pixel was floating vegetation](figures/02_persistence_classes.jpg)
 
+*Figure 2. Share of valid months (January 2019 to October 2026) in which each 10 m pixel was classified as floating vegetation, in four persistence classes.*
+
+![Statistical hotspots of floating vegetation persistence](figures/03_hotspots.jpg)
+
+*Figure 3. Hot and cold spots of floating vegetation persistence ([tool name you used], at 90%, 95% and 99% confidence).*
+
+![Floating vegetation persistence by zone](figures/04_zone_summary.jpg)
+
+*Figure 4. Share of each zone frequently or persistently covered by floating vegetation (more than 30% of valid months).*
+
+![Forecasts 1 to 3 months ahead compared with observed cover](figures/06_forecast.png)
+
+*Figure 5. Forecast cover 1, 2 and 3 months ahead compared with observed cover and two simple baselines, January 2025 to October 2026.*
 
 
 # Data Sources
@@ -126,6 +143,7 @@ Building up of cover overtime
 Floating vegetation cover follows a clear seasonal cycle. In winter (June to September) it falls to about 100 to 350 ha (median about 175 ha, roughly 9% of the water surface). It begins rising in October or November and peaks in summer, with typical December to February values of about 600 to 700 ha, roughly three to four times the winter average. The size of the peak varies strongly between years, from about 600 ha in February 2024 to more than 1,100 ha in February 2022 and January 2026 (up to 59% of the water surface), and the peak was late in 2023 (April, 1,065 ha). This cycle is consistent with warm-season growth and winter die-back, but this project did not test the causes, and the year-to-year differences are not explained by the data analysed here.
 
 Locations where cover builds up
+
 **Persistence classes:** rarely (floating vegetation in <10% of valid months), occasionally (10 to 30%), frequently (30 to 60%), persistently (>60%).
 
 **Table 1. Area (ha) of each persistence class by zone**
@@ -151,6 +169,10 @@ Locations where cover builds up
 | **Whole dam** | **40.5** | **47.3** | **6.4** | **5.8** | **12.2** |
 
 *Areas are for the 1,878 ha of the dam with enough valid months. Zones were drawn before the results were examined.*
+
+![Monthly floating vegetation area and share of water surface, 2019 to 2026](figures/05_time_series.png)
+
+*Figure 6. Monthly floating vegetation area (ha) and share of the water surface (%), January 2019 to October 2026. Shaded bands mark December to February.*
 
 Across the dam, 40.5% of mapped area (760 ha) was rarely floating vegetation and 47.3% (889 ha) occasionally so, while 12.2% (229 ha) was frequently or persistently covered, including 108 ha (5.8%) classed as persistent, meaning floating vegetation in more than 60% of valid months. Persistence differed strongly between zones. The Crocodile inflow, the smallest zone (61 ha), had the highest share of frequent and persistent cover (47.5%, of which 29.1% persistent). The Magalies inflow had almost no rarely floating area (0.7%), with 75.2% occasionally and 24.1% frequently or persistently covered, and it holds the most frequent and persistent cover of any zone in hectares (87 ha, 38% of the dam total) despite making up only 19% of the mapped area. The main basin, at 61% of the area, was mostly rarely or occasionally covered (93.9%), and only 6.1% of it was frequent or persistent, but because it is so large it still contains 69 ha of frequent and persistent cover (30% of the total) and 40 ha of persistent cover (37% of all persistent cover). Bay A and the dam wall area were intermediate, with 15.9% and 11.7% frequent or persistent.
 
